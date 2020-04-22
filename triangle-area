@@ -1,0 +1,9 @@
+B = Input;
+H = Input;
+A = ?; 
+
+Process
+A = 1/2 (Base X Height)
+Output
+
+PRINT A
