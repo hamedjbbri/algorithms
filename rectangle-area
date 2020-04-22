@@ -1,0 +1,10 @@
+Input
+W = input;
+H= input;
+A=?
+
+Process
+A = W * H;
+
+Output
+Print A
