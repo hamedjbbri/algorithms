@@ -1,0 +1,10 @@
+R= Input;
+P = 3.14;
+A= ? 
+
+Process
+A = P X R^2
+
+Output
+
+PRINT A
