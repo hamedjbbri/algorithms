@@ -1,5 +1,11 @@
 1- Exit the house
 2- Go to bus station and wait for it
+   If bus is arrived get in the bus else wait for it to be arrive
 3- Get in the bus 
+   While you are inside the bus stay in bus to reach the destination stop
 4- Get off the bus in destination bus stop
+   If bus arrived to destination go to school
 5- If school is open, enter the school
+   Else wait for it until it opened
+   When it opened enter to school
+
