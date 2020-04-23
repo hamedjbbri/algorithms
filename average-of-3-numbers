@@ -1,0 +1,12 @@
+Input:
+X = Input;
+Y = Input;
+Z = Input;
+A = ?'
+
+
+Process:
+A = (X+Y+Z) / 3
+
+output
+print A
